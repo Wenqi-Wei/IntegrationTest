@@ -10,5 +10,6 @@ namespace IntegrationTestWebApp.Models
 
         //empty comment line
         //so that i can commit something
+        //another comment to test a new build
     }
 }
