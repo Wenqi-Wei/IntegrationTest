@@ -11,5 +11,6 @@ namespace IntegrationTestWebApp.Models
         //empty comment line
         //so that i can commit something
         //another comment to test a new build
+        //29/03/2019 changed some settings in NuGet Manager
     }
 }
