@@ -17,5 +17,6 @@ namespace IntegrationTestWebApp.Models
         //rebuilt sln solution
         //unchecked MS local NuGet source
         //added another NuGet.org source
+        //did a dotnet build
     }
 }
