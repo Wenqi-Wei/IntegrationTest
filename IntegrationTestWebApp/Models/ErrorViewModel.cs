@@ -15,5 +15,6 @@ namespace IntegrationTestWebApp.Models
         //29/03/2019 did a dotnet restore
         //29/03/2019 removed the empty json file
         //rebuilt sln solution
+        //unchecked MS local NuGet source
     }
 }
