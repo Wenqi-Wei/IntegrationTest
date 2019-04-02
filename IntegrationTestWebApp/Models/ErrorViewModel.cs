@@ -11,12 +11,15 @@ namespace IntegrationTestWebApp.Models
         //empty comment line
         //so that i can commit something
         //another comment to test a new build
-        //29/03/2019 changed some settings in NuGet Manager
-        //29/03/2019 did a dotnet restore
-        //29/03/2019 removed the empty json file
+        //29/03/2019
+        //changed some settings in NuGet Manager
+        //did a dotnet restore
+        //removed the empty json file
         //rebuilt sln solution
         //unchecked MS local NuGet source
         //added another NuGet.org source
         //did a dotnet build
+        //02/04/2019
+        //linked up VS -> TeamCity -> Octo Tentacle -> Octo Server, try pushing an update to TC
     }
 }
