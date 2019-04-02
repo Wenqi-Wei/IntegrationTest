@@ -23,5 +23,6 @@ namespace IntegrationTestWebApp.Models
         //linked up VS -> TeamCity -> Octo Tentacle -> Octo Server, try pushing an update to TC
         //TeamCity is generating Artifacts now
         //push new update to refresh TC builds
+        //uninstalled & re-installed OctoPack VS plugin
     }
 }
