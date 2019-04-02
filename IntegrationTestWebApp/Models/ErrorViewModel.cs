@@ -21,5 +21,6 @@ namespace IntegrationTestWebApp.Models
         //did a dotnet build
         //02/04/2019
         //linked up VS -> TeamCity -> Octo Tentacle -> Octo Server, try pushing an update to TC
+        //TeamCity is generating Artifacts now
     }
 }
